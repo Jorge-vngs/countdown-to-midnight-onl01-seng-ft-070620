@@ -1,4 +1,4 @@
-def countdown
+
     x = 0 
   while x <= 10 
       puts "#{x} SECOND(S)!"
@@ -7,7 +7,3 @@ def countdown
     "HAPPY NEW YEAR!"
 end
 
-countdown
-
-def countdown
-end
