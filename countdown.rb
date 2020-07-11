@@ -7,4 +7,4 @@ def countdown_output
     end
     "HAPPY NEW YEAR!"
 end 
-x 
+countdown_output
