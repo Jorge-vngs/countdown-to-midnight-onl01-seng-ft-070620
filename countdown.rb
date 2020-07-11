@@ -7,5 +7,4 @@ def x
     end
     "HAPPY NEW YEAR!"
 end 
-
 x 
