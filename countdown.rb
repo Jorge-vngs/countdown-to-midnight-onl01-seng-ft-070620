@@ -1,4 +1,4 @@
-def countdown_output
+
     countdown = 10
   while countdown >= 0 
       puts "#{countdown} SECOND(S)!"
