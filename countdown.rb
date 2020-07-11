@@ -1,6 +1,6 @@
 def idk
     x = 0 
-  while x <= 12 do
+  while x <= 10 do
       puts "#{x} SECOND(S)!"
        x += 1
     end
