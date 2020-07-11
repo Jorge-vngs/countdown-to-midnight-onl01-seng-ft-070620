@@ -7,4 +7,3 @@ def countdown
     "HAPPY NEW YEAR!"
 end
 
-countdown
