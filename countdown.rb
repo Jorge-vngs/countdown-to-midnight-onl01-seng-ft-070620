@@ -7,7 +7,6 @@ def idk
     "HAPPY NEW YEAR!"
 end
 
-idk 
 
 def countdown
 end
